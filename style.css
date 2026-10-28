@@ -1,0 +1,24 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #CAF0F8;
+    display: flexbox;
+}
+h1 {
+    text-align: center;
+    color: #03045E;
+    margin: 2%;
+}
+p {
+    font-size: large;
+}
+img {
+    width: fit-content;
+}
+table {
+    text-align: left;
+    background-color:aliceblue;
+    float: left;
+}
+li {
+    font-size: large;
+}
